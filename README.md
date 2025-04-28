@@ -13,7 +13,7 @@ Game Shooter é um jogo de tiro desenvolvido no Construct 3, onde o jogador enfr
 3. Ganhe pontos e melhorias enquanto derrota os inimigos.
 
 # Como Acessar
-O jogo pode ser jogado online. Clique no link abaixo para acessar a versão online do jogo:
+O jogo pode ser jogado online. Clique no link abaixo para acessar a versão online do jogo: https://mariamarcela.itch.io/game-shooter
 
 # Prints
 Confira abaixo alguns prints da aplicação em funcionamento e do banco de dados utilizado para salvar informações do jogo:
